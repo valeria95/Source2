@@ -43,11 +43,22 @@ namespace Galaxy.Environments
 
         Actors.Add(ship);
       }
-      for (int i = 0; i < 6; i++)
+      int h = 7;
+      for (int i = 0; i < h; i++)
       {
           var ship2 = new Ship2(this);
           int positionY = ship2.Height + 50;
           int positionX = 100 + i * (ship2.Width + 50);
+          int g = h/2;
+          if (i < g)
+          {
+              ship2.Direction = false;
+          }
+          else
+          {
+              ship2.Direction = true;
+          }
+              
 
           ship2.Position = new Point(positionX, positionY);
 
@@ -137,10 +148,9 @@ namespace Galaxy.Environments
         Failed = true;
 
       //has no enemy
-      //if (Actors.All(actor => actor.ActorType != ActorType.Enemy))
-      //Success = true;
-      if (Actors.Where((actor) => actor is Ship2 || actor is Ship).ToList().Count == 0)
+      if (Actors.All(actor => actor.ActorType != ActorType.Enemy))
           Success = true;
+     
     }
       public override void Load()
     {

@@ -34,12 +34,30 @@ namespace Galaxy.Environments.Actors
         {
             Load(@"Assets\bullet.png");
         }
-
+        public override bool IsAlive
+        {
+            get { return m_isAlive; }
+            set
+            {
+                m_isAlive = value;
+                CanDrop = !value;
+            }
+        }
         public override void Update()
         {
-            Position = new Point(Position.X, Position.Y + Speed);
-        }
+            Size levelSize = Info.GetLevelSize();
 
+            Position = new Point(Position.X, Position.Y + Speed);
+
+            if (Position.Y > levelSize.Height)
+            {
+                IsAlive = false;
+            }
+            else
+            {
+                IsAlive = true;
+            }
+        }
         #endregion
     }
 }

@@ -85,3 +85,17 @@ F:\Свидерская\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.C
 C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.exe.config
 C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.exe
 C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\deth.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\FailScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\StartScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\bullet.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\LevelOne.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\player.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\ship2.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\ship.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.exe
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache

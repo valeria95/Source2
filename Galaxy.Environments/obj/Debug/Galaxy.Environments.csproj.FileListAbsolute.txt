@@ -62,3 +62,16 @@ F:\Свидерская\Build\Galaxy.Environments.pdb
 F:\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
 F:\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
 F:\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\deth.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\FailScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\StartScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\bullet.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\LevelOne.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\player.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\ship2.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\ship.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.Environments.dll
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.Environments.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb

@@ -48,3 +48,13 @@ F:\Свидерская\Source\Galaxy.Core\obj\Debug\Interop.WMPLib.dll
 F:\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csproj.ResolveComReference.cache
 F:\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.dll
 F:\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\deth.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\FailScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Assets\StartScreen.png
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.Core.dll
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Build\Galaxy.Core.pdb
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csprojResolveAssemblyReference.cache
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Core\obj\Debug\Interop.WMPLib.dll
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csproj.ResolveComReference.cache
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.dll
+C:\Users\Свидерская\Desktop\Учеба\Свидерская\Source\Galaxy.Core\obj\Debug\Galaxy.Core.pdb

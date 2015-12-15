@@ -33,6 +33,7 @@ namespace Galaxy.Environments.Actors
     {
       Load(@"Assets\bullet.png");
     }
+  
 
     public override void Update()
     {

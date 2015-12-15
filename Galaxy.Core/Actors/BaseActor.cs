@@ -11,7 +11,7 @@ namespace Galaxy.Core.Actors
 {
   public abstract class BaseActor
   {
-    private bool m_isAlive;
+      protected bool m_isAlive;
     protected ILevelInfo Info { get; set; }
 
     #region public properties
