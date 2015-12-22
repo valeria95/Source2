@@ -34,6 +34,7 @@ namespace Galaxy.Environments.Actors
         {
             Load(@"Assets\bullet.png");
         }
+
         public override bool IsAlive
         {
             get { return m_isAlive; }
@@ -43,6 +44,7 @@ namespace Galaxy.Environments.Actors
                 CanDrop = !value;
             }
         }
+
         public override void Update()
         {
             Size levelSize = Info.GetLevelSize();
@@ -58,6 +60,7 @@ namespace Galaxy.Environments.Actors
                 IsAlive = true;
             }
         }
+
         #endregion
     }
 }
